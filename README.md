@@ -7,7 +7,7 @@ Experienced with design patterns and laws.
 Diverse skillset: Photoshop, XD, Figma & Blender for design --- 
 and HTML, CSS, SASS, Tailwind, JS, TS, Vue, React, Quasar --- for frontend. 
 Backend and devops: Git, GitHub, MongoDB, MySQL, PHP, GraphQL, Node.js.
-<br /> 
+<br />
 
 ###  Employment history
 ---
@@ -17,7 +17,6 @@ Backend and devops: Git, GitHub, MongoDB, MySQL, PHP, GraphQL, Node.js.
 - Worked on Learning Management system
 - Developed with React and GraphQL
 - Followed good practices and guidelines made by company
-<br />
 
 ####  Graphic designer @ CK FUTURE (travel agency) - Prievidza, Slovakia
 <i>Feb 2018 - Sep 2018</i> | Internship<br />
@@ -25,7 +24,6 @@ Backend and devops: Git, GitHub, MongoDB, MySQL, PHP, GraphQL, Node.js.
 - Created designs for posters and social media ads
 - Over 20% traffic increase for the company since I joined
 - Always offered 2-3 designs for director to choose from
-<br />
 
 ###  Education
 ---
@@ -43,7 +41,6 @@ Backend and devops: Git, GitHub, MongoDB, MySQL, PHP, GraphQL, Node.js.
 - Slovak | Native
 - English | Fluent
 - Korean | Know enough to survive
-<br />
 
 ###  Useful links
 ---
