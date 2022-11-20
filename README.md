@@ -44,5 +44,5 @@ Backend and devops: Git, GitHub, MongoDB, MySQL, PHP, GraphQL, Node.js.
 
 ###  Useful links
 ---
-- GitHub : github.com/danielradosa
-- LinkedIn : linkedin.com/in/daniel-radosa
+- GitHub : [Link >](https://www.github.com/danielradosa)
+- LinkedIn : [Link >](https://www.linkedin.com/in/daniel-radosa)
