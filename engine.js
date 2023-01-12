@@ -17,3 +17,6 @@ function getPriceAndShow() {
 }
 
 getPriceAndShow();
+
+// update every 10 seconds
+setInterval(getPriceAndShow, 1000);
