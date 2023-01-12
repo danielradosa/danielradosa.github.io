@@ -7,7 +7,7 @@ function getPriceAndShow() {
             var price = data.data.amount;
             // convert to float
             price = parseFloat(price);
-            myBtc = 0.00610542;
+            myBtc = 0.00612921;
             document.getElementById("btcPrice").innerHTML = price + " €";
             document.getElementById("myBtc").innerHTML = myBtc + " BTC";
             const fp = (price * myBtc).toString().slice(0, 5);
