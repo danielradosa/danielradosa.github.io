@@ -569,3 +569,136 @@ footer {
     font-weight: bold;
     background-color: #22C55E;
 }
+
+@media only screen and (max-width: 600px) {
+    header {
+        width: 100%;
+    }
+    header nav {
+        display: none;
+    }
+    .hero .right img {
+        display: none;
+    }
+    .hero .left {
+        margin-left: 2em;
+        margin-top: 4em;
+    }
+    .hero .left .action button {
+        margin-left: 0;
+    }
+    .gy {
+        margin-top: 1em;
+    }
+    .hero {
+        width: 100%;
+    }
+    .about {
+        width: 100%;
+    }
+    .about .top .right-a {
+        display: none;
+    }
+    .about .top .left-a {
+        margin-left: 2em;
+    }
+    .about .bot {
+        flex-direction: column;
+    }
+    .bot .info {
+        margin-top: 8em;
+    }
+    .long {
+        width: 100%;
+    }
+    .rt {
+        display: none;
+    }
+    .lt {
+        display: flex;
+        flex-direction: column;
+    }
+    .spd {
+        margin-top: 4em;
+        margin-left: -3em;
+    }
+    .testi {
+        width: 100%;
+    }
+    .proj {
+        width: 100%;
+    }
+    .s {
+        width: 100%;
+        margin-left: 6em;
+    }
+    .s .ri {
+        margin-left: -7em;
+    }
+    .tp {
+        flex-direction: column;
+        margin-left: 0;
+    }
+    .bt {
+        flex-direction: column;
+        margin-left: -12em;
+    }
+    .cont {
+        width: 50%;
+    }
+    .kontakt {
+        width: 100%;
+    }
+    .kontakt .cts {
+        flex-direction: column;
+    }
+    .kontakt .cts .ccs {
+        margin-top: 4em;
+    }
+    .kontakt img {
+        display: none;
+    }
+    footer {
+        width: 100%;
+        flex-direction: column;
+    }
+    footer .slu {
+        margin-top: 6em;
+    }
+    .tmt .arrr {
+        display: none;
+    }
+    .tmt {
+        flex-direction: column;
+    }
+    .testi {
+        height: 420px;
+    }
+    .o {
+        margin-left: -2em;
+    }
+    .mon {
+        margin-left: 2em;
+        margin-top: 2em;
+        padding-bottom: 8em;
+    }
+    .con {
+        flex-direction: column;
+    }
+    .pp img {
+        width: 400px;
+        margin-left: -.5em;
+    }
+    .bar {
+        padding: 2em;
+        width: 400px;
+        height: 600px;
+    }
+    .bar .send {
+        flex-direction: column;
+        margin-left: 1em;
+    }
+    .bar .pric {
+        margin-left: 1em;
+    }
+}
