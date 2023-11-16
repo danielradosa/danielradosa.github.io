@@ -63,3 +63,7 @@ img {
     display: none;
     object-fit: cover;
 }
+
+iframe {
+    height: 100svh !important;
+}
